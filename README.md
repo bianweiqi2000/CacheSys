@@ -41,3 +41,4 @@ make clean
 ```
 ./main
 ```
+![alt text](images/hitTest.jpg)
