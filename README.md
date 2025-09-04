@@ -45,4 +45,4 @@ make clean
 ## 测试结果
 不同缓存策略缓存命中率测试对比结果如下：
 
-![alt text](images/hitTest.jpg)
+(images/hitTest.jpg)
