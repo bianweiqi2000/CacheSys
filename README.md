@@ -41,8 +41,3 @@ make clean
 ```
 ./main
 ```
-
-## 测试结果
-不同缓存策略缓存命中率测试对比结果如下：
-
-(images/hitTest.jpg)
