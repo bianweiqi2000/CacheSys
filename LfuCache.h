@@ -7,7 +7,7 @@
 #include <unordered_map>
 #include <vector>
 
-#include "KICachePolicy.h"
+#include "ICachePolicy.h"
 
 namespace KamaCache
 {

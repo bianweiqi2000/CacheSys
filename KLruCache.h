@@ -6,7 +6,7 @@
 #include <mutex>
 #include <unordered_map>
 
-#include "KICachePolicy.h"
+#include "ICachePolicy.h"
 
 namespace KamaCache
 {

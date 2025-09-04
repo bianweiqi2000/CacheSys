@@ -1,8 +1,8 @@
 #pragma once
 
-#include "../KICachePolicy.h"
-#include "KArcLruPart.h"
-#include "KArcLfuPart.h"
+#include "../ICachePolicy.h"
+#include "ArcLruPart.h"
+#include "ArcLfuPart.h"
 #include <memory>
 
 namespace KamaCache 
